@@ -10,6 +10,7 @@ else:
 
 
 if temp > 30 or is_raining == True:
-    print("Nao vás")
+    print("Dont go outside.")
 else:
-    print("Vai seu caralho")
+    print("You can go outside.")
+
